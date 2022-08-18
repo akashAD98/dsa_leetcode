@@ -1,6 +1,6 @@
 # dsa_leetcode
-
-
+https://seanprashad.com/leetcode-patterns/
+##tips
 If input array is sorted then
 - Binary search
 - Two pointers
